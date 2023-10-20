@@ -1,0 +1,1 @@
+import{bO as a,r as o,d as c,J as n,bR as e}from"./index-0523f8dc.js";const b=a("breadcrumbs",()=>({breadcrumbs:o([])})),d=c({__name:"QA",setup(r){const t=b(),{breadcrumbs:s}=n(t);return s.value=[{title:"資料",path:e.DATA_MAINTENANCE},{title:"QA",path:e.Q_A}],(u,m)=>" 我是ＱＡ!!!!!! "}});export{d as default};
