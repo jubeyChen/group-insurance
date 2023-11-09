@@ -1,0 +1,1 @@
+import{d as t,r as a,b7 as o,o as n,c as r,h as s,b as c,k as _}from"./index-5d944958.js";const u=t({__name:"DataMaintenanceView",setup(m){return a([]),(p,i)=>{const e=o("router-view");return n(),r(_,null,[s(" 我是資料維護 "),c(e)],64)}}});export{u as default};
