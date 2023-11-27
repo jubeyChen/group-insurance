@@ -1,0 +1,1 @@
+var n=(i=>(i.Editing="編輯中",i.InApproval="尚未上傳同意信函",i.InReview1="審核中",i.InReview2="科主管審核完成",i.Failure="審核失敗",i.Ready="審核完成",i.Awaiting="等待發佈",i.Published="發佈中",i.Suspended="下架",i))(n||{}),d=(i=>(i.Editing="編輯中",i.Failure="審核失敗",i.InReview="審核中",i.Awaiting="等待發佈",i.Published="發佈中",i.Suspended="下架",i))(d||{});export{d as I,n as P};
